@@ -5,6 +5,6 @@ El proyecto consiste en analizar el comportamiento de los métodos de Selección
 <br />
 
 
-<h2>Lenguaje y entorno utilizado</h2>
+<h2>Lenguaje y entorno</h2>
 
 - <b>C++ en Dev-C++</b> 
